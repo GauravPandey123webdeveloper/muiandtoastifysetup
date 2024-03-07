@@ -1,1 +1,5 @@
-hello i am main readme
+
+hello i am main rea
+
+readme of check
+
